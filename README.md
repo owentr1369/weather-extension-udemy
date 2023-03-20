@@ -1,4 +1,8 @@
-# React Chrome Extension Boilerplate
+# Weather Extension for Chrome
+
+Demo: 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/97748602/226386163-a27e885b-a877-4eb1-8aaa-45bc07fff454.gif)
+
 
 ## Getting Started
 
