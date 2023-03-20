@@ -1,7 +1,7 @@
 # Weather Extension for Chrome
 
 Demo: 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/97748602/226386163-a27e885b-a877-4eb1-8aaa-45bc07fff454.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/97748602/226386582-732bf06b-6682-4183-b8ef-c82d6e8e3d1c.gif)
 
 
 ## Getting Started
